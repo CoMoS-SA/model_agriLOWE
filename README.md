@@ -57,4 +57,4 @@ Obtain new machineries
 
 # Requirements
 
-agriLOWE has no system specific requirements. It is designed to minimilize the level of constraints.
+agriLOWE has no system specific requirements. It is designed to minimize the level of constraints.
