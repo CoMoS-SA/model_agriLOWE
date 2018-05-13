@@ -15,4 +15,18 @@ b) Production = min {alphaL, gammaS, thetaK} with alpha=productivity of labour e
 c)Each farmer produce an homogenous bundle of food and the market is perfectly competitive;
 
 d) Demand is increasing at a fix rate over time: D=D(t-)(1+*d*)
+
 e) 
+
+# Model's Feature
+*Code Language* : R, C++ (under development)
+
+*Compile* : R no need, C++ uses CMake
+
+*Inputs*: 21 + a spatial matrix
+
+*Outputs*: 14 time series of interest
+
+# Code structure
+Load functions
+Data: import parameter set; 
