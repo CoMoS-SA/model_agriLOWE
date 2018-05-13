@@ -16,7 +16,13 @@ c)Each farmer produce an homogenous bundle of food and the market is perfectly c
 
 d) Demand is increasing at a fix rate over time: D=D(t-)(1+*d*)
 
-e) 
+e) Labour force is equally distributed among cells : l(t)=L/(xy-f) with f=forestry cells 
+
+f) Cost structure is marginalist: C(it)= w/alpha + p_land/gamma
+
+g) Technological progress depends on R&D internal and R&D external
+
+h) Profit = ((p_food - UC(it))sales(it)) - R&Dint - R&Dext
 
 # Model's Feature
 *Code Language* : R, C++ (under development)
@@ -28,5 +34,30 @@ e)
 *Outputs*: 14 time series of interest
 
 # Code structure
-Load functions
 Data: import parameter set; 
+
+Declare
+
+Initializie
+
+**while** t<T **do**
+
+New machines are produced
+
+Receive food demand
+
+Order new machineries
+
+Perform internal R&D
+
+Produce
+
+Sell and compute profits
+
+Obtain new machineries
+
+**end**
+
+# Requirements
+
+agriLOWE has no system specific requirements. It is designed to minimilize the level of constraints.
