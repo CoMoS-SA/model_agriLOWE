@@ -22,7 +22,12 @@ f) Cost structure is marginalist: C(it)= w/alpha + p_land/gamma
 
 g) Technological progress depends on R&D internal and R&D external
 
-h) Profit = ((p_food - UC(it))sales(it)) - R&Dint - R&Dext
+h) Profit = ((p_food - UC(it))sales(it))) - R&Dint - R&Dext
+
+**Climate Functions**
+
+1. Damage function: Nordhaus (2017, Weitzman (2009)
+2. Carbon uptake: Sterman et al. (2012) and IIASA's Global Biosphere Management Model (GLOBIOM)
 
 # Model's Feature
 *Code Language* : R, C++ (under development)
