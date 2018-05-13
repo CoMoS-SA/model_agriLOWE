@@ -3,6 +3,8 @@ This repository contains all the features and instructions necessary to reproduc
 
 The simulation aims at addressing these two open issues: is it possible to assess the climate change impacts to the agricultural sector in different technologically – developed countries, utilizing a global model? Further, is low technological change in the agricultural sector a bottleneck for development and climate change mitigation?
 
+![Image AgriLOWE](AgriLOWE.jpeg)
+
 # Model's main components
 1. Ecology of `N` farmers (no exit & no entry); 
 2. 3 types of land: forestry, low-yield land (characterized by low fertility and intrinsic low productivity of the land) and high-yield land (where the fertility of the ground and the related productivity are instead higher);
